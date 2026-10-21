@@ -12,7 +12,7 @@ import (
 
 	"cotab/dax"
 	"cotab/ega"
-	"cotab/internal/gameimport"
+	"github.com/retro-ware/gameimport"
 )
 
 // markerFiles: a folder holding all of these is a Curse of the Azure Bonds install.
